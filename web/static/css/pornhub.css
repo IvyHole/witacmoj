@@ -1,0 +1,57 @@
+* {
+    background-color: #000 !important;
+    color: #fff !important;
+    text-shadow: none !important;
+}
+.navbar {
+    background-image: linear-gradient(to bottom, #000 0, #000 100%);
+    border-width: 0;
+}
+.caret {
+    border-top-color: #f90;
+}
+a {
+    color: #f90 !important;
+}
+.home-logo {
+    background-color: #f90 !important;
+    color: #000 !important;
+    border-radius: 7px;
+    padding: 10px 10px;
+    margin: -10px 0 -10px 10px;
+    font-weight: 600;
+}
+i::before {
+    color: #f90;
+}
+.btn-default {
+    background-image: linear-gradient(to bottom, #000 0, #000 100%);
+    text-shadow: none;
+    border: 1px solid #f90;
+}
+.btn-primary {
+    background-image: linear-gradient(to bottom, #f90 0, #f90 100%);
+    color: #000 !important;
+    border: 1px solid #f90;
+}
+.btn-info {
+    background-image: linear-gradient(to bottom, #f90 0, #f90 100%);
+    text-shadow: none;
+    border: 1px solid #f90;
+    color: #000;
+}
+.progress-bar {
+    background-image: linear-gradient(to bottom, #f90 0, #f90 100%) !important;
+}
+.progress {
+    height: 8px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+.maxwidth150px {
+    max-width: 150px;
+}
+pre {
+    border-left: 2px solid #f90;
+}
